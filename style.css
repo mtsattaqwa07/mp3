@@ -30,7 +30,6 @@ header img {
     justify-content: center;
     text-align: center;
     padding: 20px;
-    place-items: center;
 }
 /* audio */
 .container .audio, .container .unduh {
